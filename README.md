@@ -6,5 +6,4 @@ Kita juga akan sedikit belajar tentang `fork` di github. Repository yang kita pa
 
 # Daftar Isi
 
-- [Persiapan tool (composer, git, dll)](persiapan-dasar.md)
-- 
+- Persiapan tool (composer, git, dll) [#](persiapan-dasar.md)
